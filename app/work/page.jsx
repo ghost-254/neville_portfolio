@@ -25,7 +25,7 @@ const projects = [
     category: "frontend",
     title: "project 1",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate magnam modi.",
+      "This project showcases my proficiency in frontend development, where I built a dynamic and visually appealing web application using modern technologies. Utilizing HTML5 for structured and semantic content, CSS3 for styling and responsive design, and JavaScript for interactive features, I created a seamless user experience that is both functional and engaging.",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
     image: "/assets/work/thumb1.png",
     live: "",
@@ -36,7 +36,7 @@ const projects = [
     category: "fullstack",
     title: "project 2",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate magnam modi.",
+      "In this project, I demonstrated my ability to develop a complete web application from front to back. Using Next.js for server-side rendering and dynamic routing, Tailwind CSS for modern and responsive design, and Node.js for efficient backend development, I created a robust and scalable application that meets both user and business requirements.",
     stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
     image: "/assets/work/thumb2.png",
     live: "",
@@ -47,7 +47,7 @@ const projects = [
     category: "frontend",
     title: "project 3",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate magnam modi.",
+      "This project highlights my skills in modern frontend development, utilizing Next.js for optimized performance and dynamic content, along with Tailwind CSS for creating sleek, responsive designs. The combination of these technologies enabled me to build a highly interactive and visually appealing user interface.",
     stack: [{ name: "Next.js" }, { name: "Tailwind.css" }],
     image: "/assets/work/thumb3.png",
     live: "",

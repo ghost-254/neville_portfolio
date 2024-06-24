@@ -17,7 +17,7 @@ import { SiTailwindcss, SiNextdotjs, SiFirebase, SiMongodb } from "react-icons/s
 const about = {
   title: "About me",
   description:
-    "I did not attend any physical classrooms to reach the level I am today. Thanks to YouTube Learning Community and ALX Software Engineering Academy. I am my own 'BEAST' and I'll make your software goals real.",
+    "I have achieved my current level of expertise without attending any physical classrooms, thanks to the YouTube Learning Community and ALX Software Engineering Academy. I am a self-driven 'BEAST' dedicated to making your software goals a reality.",
   info: [
     {
       fieldName: "Name",
@@ -55,15 +55,15 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My experience",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "My experience spans a diverse range of projects and roles in software development, where I have honed my skills in web development, UI/UX design, and SEO, consistently delivering high-quality, innovative solutions.",
   items: [
     {
-      company: "Tech Solutions Inc.",
+      company: "Luxx Touch.",
       position: "Full Stack Developer",
-      duration: "2022 - Present",
+      duration: "2021 - Present",
     },
     {
-      company: "Web Design Studio",
+      company: "Luxx Touch",
       position: "Front-End Developer Intern",
       duration: "Summer 2021",
     },
@@ -73,19 +73,14 @@ const experience = {
       duration: "2020 - 2021",
     },
     {
-      company: "Tech Academy",
-      position: "Teaching Assistant",
+      company: "Byte Blaze Labs",
+      position: "Full-stack Developer",
       duration: "2019 - 2020",
     },
     {
-      company: "Digital Agency",
+      company: "Pinpoint Photography",
       position: "UI/UX Designer",
       duration: "2018 - 2019",
-    },
-    {
-      company: "Software Development Firm",
-      position: "Junior Developer",
-      duration: "2017 - 2018",
     },
   ],
 };
@@ -95,37 +90,37 @@ const education = {
   icon: "/assets/resume/cap.svg",
   title: "My education",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "My education has been driven by a passion for self-learning and professional growth, primarily through the YouTube Learning Community and ALX Software Engineering Academy, where I have developed a strong foundation in software engineering.",
   items: [
     {
-      institution: "Online Course Platform",
+      institution: "ALX Africa",
       degree: "Full Stack Web Development Bootcamp",
       duration: "2023",
     },
     {
-      institution: "Codecademy",
+      institution: "ALX Africa",
       degree: "Front-end Track",
       duration: "2022",
     },
     {
-      institution: "Online Course",
+      institution: "Tech Gurus, YouTube",
       degree: "Programming Course",
       duration: "2020 - 2021",
     },
     {
-      institution: "Tech Institute",
+      institution: "ALX Africa",
       degree: "Certified Web Developer",
       duration: "2019",
     },
     {
-      institution: "Design School",
+      institution: "Planca Institute",
       degree: "Diploma in Graphic Design",
       duration: "2016 - 2018",
     },
     {
-      institution: "Community College",
-      degree: "Associate Degree in Computer Science",
-      duration: "2014 - 2016",
+      institution: "Coursera Google",
+      degree: "Digital Marjeting & SEO Practices",
+      duration: "2023",
     },
   ],
 };
@@ -134,7 +129,7 @@ const education = {
 const skills = {
   title: "My skills",
   description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quibusdam, sunt explicabo inventore.",
+    "My skills include expertise in web development, UI/UX design, logo design, SEO, and academic research, allowing me to deliver comprehensive and high-quality solutions across various domains.",
   skillList: [
     {
       icon: <FaHtml5 />,
