@@ -27,31 +27,91 @@ const projects = [
     description:
       "This project showcases my proficiency in frontend development, where I built a dynamic and visually appealing web application using modern technologies. Utilizing HTML5 for structured and semantic content, CSS3 for styling and responsive design, and JavaScript for interactive features, I created a seamless user experience that is both functional and engaging.",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
-    image: "/assets/work/thumb1.png",
-    live: "",
-    github: "",
+    image: "/assets/work/thumb7.jpg",
+    live: "http://Eduflowcloud.co.ke",
+    github: "https://github.com/ghost-254",
   },
   {
     num: "02",
     category: "fullstack",
     title: "project 2",
     description:
-      "In this project, I demonstrated my ability to develop a complete web application from front to back. Using Next.js for server-side rendering and dynamic routing, Tailwind CSS for modern and responsive design, and Node.js for efficient backend development, I created a robust and scalable application that meets both user and business requirements.",
-    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
-    image: "/assets/work/thumb2.png",
-    live: "",
-    github: "",
+      "In this project, I demonstrated my ability to develop a complete web application from front to back. Using Next.js for server-side rendering and dynamic routing, Tailwind CSS for modern and responsive design, and Firebase for efficient backend development, I created a robust and scalable application that meets both user and business requirements.",
+    stack: [{ name: "Next.js" }, { name: "React" },  { name: "Typescript" }, { name: "Tailwind.css" }, { name: "Firebase" }],
+    image: "/assets/work/thumb2.jpg",
+    live: "https://outreachconnect.org",
+    github: "https://github.com/ghost-254/agency-website",
   },
   {
     num: "03",
-    category: "frontend",
+    category: "fullstack",
     title: "project 3",
     description:
-      "This project highlights my skills in modern frontend development, utilizing Next.js for optimized performance and dynamic content, along with Tailwind CSS for creating sleek, responsive designs. The combination of these technologies enabled me to build a highly interactive and visually appealing user interface.",
-    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }],
-    image: "/assets/work/thumb3.png",
-    live: "",
-    github: "",
+      "This project highlights my skills in modern frontend development, utilizing Next.js for optimized performance and dynamic content, Tailwind CSS for creating sleek and responsive designs, along with Node.js for backend. The combination of these technologies enabled me to build a highly interactive and visually appealing user interface.",
+    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
+    image: "/assets/work/thumb8.jpg",
+    live: "http://vinancee.com",
+    github: "https://github.com/ghost-254",
+  },
+
+  {
+    num: "04",
+    category: "fullstack",
+    title: "project 4",
+    description:
+      "This project highlights my skills in modern frontend and backend development, utilizing Next.js for optimized performance and dynamic content, Tailwind CSS for creating sleek and responsive designs, along with MongoDB for backend. The combination of these technologies enabled me to build a highly interactive and visually appealing user interface.",
+    stack: [{ name: "Next.js" }, { name: "React" },  { name: "Typescript" }, { name: "Tailwind.css" }, { name: "MongoDB" }],
+    image: "/assets/work/thumb6.jpg",
+    live: "http://Dnny.com",
+    github: "https://github.com/ghost-254",
+  },
+
+  {
+    num: "05",
+    category: "fullstack",
+    title: "project 5",
+    description:
+      "This project highlights my skills in modern web and mobile development, utilizing Next.js for optimized performance and dynamic content, Tailwind CSS for creating sleek and responsive designs, along with Firebase for backend. The combination of these technologies enabled me to build a highly interactive and visually appealing user interface.",
+    stack: [{ name: "Next.js" }, { name: "Typescript" }, { name: "Tailwind.css" }, { name: "Firesbase" }],
+    image: "/assets/work/thumb3.jpg",
+    live: "https://www.luxxtouch.com/",
+    github: "https://github.com/ghost-254/LUXXTOUCH",
+  },
+
+  {
+    num: "06",
+    category: "fullstack",
+    title: "project 6",
+    description:
+      "This project highlights my skills in modern web development, utilizing Next.js for optimized performance and dynamic content, Tailwind CSS for creating sleek and responsive designs, along with Node.js for backend. The combination of these technologies enabled me to build a highly interactive and visually appealing user interface.",
+    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
+    image: "/assets/work/thumb5.jpg",
+    live: "https://www.fodyfoods.com/",
+    github: "https://github.com/ghost-254",
+  },
+
+  {
+    num: "07",
+    category: "fullstack",
+    title: "project 7",
+    description:
+      "This project highlights my skills in modern web development, utilizing Next.js for optimized performance and dynamic content, Tailwind CSS for creating sleek and responsive designs, along with Node.js for backend. The combination of these technologies enabled me to build a highly interactive and visually appealing user interface.",
+    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
+    image: "/assets/work/thumb4.jpg",
+    live: "https://www.cupshe.com/",
+    github: "https://github.com/ghost-254",
+  },
+
+  {
+    num: "08",
+    category: "fullstack",
+    title: "project 8",
+    description:
+      "This project highlights my skills in modern frontend development, utilizing Next.js for optimized performance and dynamic content, Tailwind CSS for creating sleek and responsive designs, along with Node.js for backend. The combination of these technologies enabled me to build a highly interactive and visually appealing user interface.",
+    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
+    image: "/assets/work/thumb1.jpg",
+    live: "https://www.beefcakeswimwear.com/",
+    github: "https://github.com/ghost-254",
   },
 ];
 

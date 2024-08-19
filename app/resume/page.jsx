@@ -21,23 +21,23 @@ const about = {
   info: [
     {
       fieldName: "Name",
-      fieldValue: "Neville Otieno",
+      fieldValue: "Jasper Jasmin",
     },
     {
       fieldName: "Phone",
-      fieldValue: "(+254) 707 529 691",
+      fieldValue: "+1 (360) 200-6874",
     },
     {
       fieldName: "Experience",
-      fieldValue: "3+ Years",
+      fieldValue: "4+ Years",
     },
     {
       fieldName: "Nationality",
-      fieldValue: "Kenyan",
+      fieldValue: "American",
     },
     {
       fieldName: "Email",
-      fieldValue: "nevilleotieno6@gmail.com",
+      fieldValue: "jasperjasmin@gmail.com",
     },
     {
       fieldName: "Freelance",
@@ -57,6 +57,11 @@ const experience = {
   description:
     "My experience spans a diverse range of projects and roles in software development, where I have honed my skills in web development, UI/UX design, and SEO, consistently delivering high-quality, innovative solutions.",
   items: [
+    {
+      company: "Outreach Connect, California",
+      position: "Full Stack Developer",
+      duration: "2023 - Present",
+    },
     {
       company: "Luxx Touch.",
       position: "Full Stack Developer",
@@ -80,7 +85,7 @@ const experience = {
     {
       company: "Pinpoint Photography",
       position: "UI/UX Designer",
-      duration: "2018 - 2019",
+      duration: "2017 - 2019",
     },
   ],
 };
@@ -93,14 +98,14 @@ const education = {
     "My education has been driven by a passion for self-learning and professional growth, primarily through the YouTube Learning Community and ALX Software Engineering Academy, where I have developed a strong foundation in software engineering.",
   items: [
     {
-      institution: "ALX Africa",
+      institution: "ALX Institute",
       degree: "Full Stack Web Development Bootcamp",
-      duration: "2023",
+      duration: "2016",
     },
     {
-      institution: "ALX Africa",
+      institution: "ALX Institute",
       degree: "Front-end Track",
-      duration: "2022",
+      duration: "2018",
     },
     {
       institution: "Tech Gurus, YouTube",
@@ -108,7 +113,7 @@ const education = {
       duration: "2020 - 2021",
     },
     {
-      institution: "ALX Africa",
+      institution: "ALX Institute",
       degree: "Certified Web Developer",
       duration: "2019",
     },
@@ -119,8 +124,8 @@ const education = {
     },
     {
       institution: "Coursera Google",
-      degree: "Digital Marjeting & SEO Practices",
-      duration: "2023",
+      degree: "Digital Marketing & SEO Practices",
+      duration: "2022",
     },
   ],
 };
@@ -325,7 +330,7 @@ const Resume = () => {
                 <p className="max-w-[600px] text-white/60 mx-auto xl:mx-0">
                   {about.description}
                 </p>
-                <ul className="grid grid-cols-1 xl:grid-cols-2 gap-y-6 max-w-[620px] mx-auto xl:mx-0">
+                <ul className="grid grid-cols-1 xl:grid-cols-1 gap-y-6 mb-7 max-w-[620px] mx-auto xl:mx-0">
                   {about.info.map((item, index) => {
                     return (
                       <li

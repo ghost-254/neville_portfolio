@@ -13,8 +13,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "Neville | Portfolio",
-  description: "I am a Junior Software Developer with 3+ years of Experience",
+  title: "Jasper | Portfolio",
+  description: "I am a Software Developer with 3+ years of Experience",
 };
 
 export default function RootLayout({ children }) {
